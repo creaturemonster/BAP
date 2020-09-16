@@ -1,10 +1,3 @@
-lecture_5_problem_1.py
-Long ago
-Apr 22, 2018
-
-You uploaded an item
-Text
-lecture_5_problem_1.py
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
