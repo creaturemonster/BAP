@@ -1,27 +1,3 @@
-lab_10.py
-Long ago
-Apr 1, 2018Computer
-
-You moved an item to
-Google Drive Folder
-Downloads
-Text
-lab_10.py
-Aug 14, 2017
-
-You restored an item
-Text
-lab_10.py
-Aug 9, 2017Computer
-
-Youmoved an item to the trash
-Text
-lab_10.py
-Aug 2, 2017Computer
-
-You uploaded an item
-Text
-lab_10.py
 import pandas as pd
 import numpy as np
 from numpy import random
